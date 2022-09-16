@@ -1,0 +1,11 @@
+*.m~
+*.swp
+*.pyc
+.DS_Store
+tags
+*.cache
+.vscode/
+.ftpconfig
+.~lock.notes.odt#
+notes.odt
+
